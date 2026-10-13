@@ -1,0 +1,21 @@
+{
+  "name": "campusone",
+  "version": "1.0.0",
+  "description": "CampusOne - Production-Grade Smart Campus Operating System",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "seed": "npm --prefix backend run seed",
+    "build:frontend": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "campusone",
+    "smart-campus",
+    "mern",
+    "react",
+    "tailwind",
+    "gemini-ai"
+  ],
+  "author": "CampusOne Team",
+  "license": "MIT"
+}
